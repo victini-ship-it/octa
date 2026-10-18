@@ -1,2 +1,2 @@
 # octa
-Being a beginner again.
+Lil me learning cybersec.
